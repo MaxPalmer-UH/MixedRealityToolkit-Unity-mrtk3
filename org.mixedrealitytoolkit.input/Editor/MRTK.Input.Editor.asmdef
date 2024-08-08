@@ -22,6 +22,11 @@
     "defineConstraints": [],
     "versionDefines": [
         {
+            "name": "com.unity.cloud.gltfast",
+            "expression": "",
+            "define": "GLTFAST_PRESENT"
+        },
+        {
             "name": "com.atteneder.gltfast",
             "expression": "",
             "define": "GLTFAST_PRESENT"
